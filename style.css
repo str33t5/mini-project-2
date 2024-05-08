@@ -1,0 +1,40 @@
+body {
+    background-color: gray;
+  }
+  
+  h1 {
+    color: #000000;
+    text-align: center;
+    font-family: monospace;
+    border: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    border-style: groove;
+    background-color: #ffffc2;
+    border-color: #fdd76d
+  }
+  
+  hr {
+  
+  }
+  
+  p {
+    color: #ffe600;
+    font-family: monospace;
+  }
+  
+  ol {
+    color: darkgray;
+    font-family: monospace;
+  }
+  
+  h3 {
+    color: darkgray;
+    border: 6px;
+    border-radius:7px;
+    padding: 3px;
+    border-style: groove;
+    background-color: #ffffc2;
+    border-color: #fdd76d;
+    text-align: center;
+  }
